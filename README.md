@@ -23,7 +23,8 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nextjs,expressjs,mongodb,docker,postgresql" />
@@ -33,7 +34,7 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 ---
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=red&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=black&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
 | ------------- | ------------- |
 
 
