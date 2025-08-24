@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Moon"><img src="https://api.daily.dev/devcards/c883db78fc7f47d98f913d7196de1ca8.png?r=i8r" width="400" alt="Emediong Bassey's Dev Card"/></a>
+<a href="https://app.daily.dev/Moon" align='center'><img src="https://api.daily.dev/devcards/c883db78fc7f47d98f913d7196de1ca8.png?r=i8r" width="300" alt="Emediong Bassey's Dev Card"/></a>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Emediong+Bassey+Edem!;" />
