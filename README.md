@@ -33,7 +33,7 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 <br>
 
 <div align='center'>
-    | [![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?    username=edememediong1&layout=compact&theme=radical&count_private=true)  
+    | [![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?    username=edememediong1&layout=compact&theme=radical&count_private=true)  |-------|--------|
 </div> 
 
 <br>
