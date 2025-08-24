@@ -22,7 +22,6 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 - 📫 You can contact me by emailing edememediong1@gmail.com.
 
 ---
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -46,3 +45,12 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=red&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&langs_count=8&layout=compact&hide_border=true" alt="Emediong's GitHub stats" /> |
 | ------------- | ------------- |
+
+
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
