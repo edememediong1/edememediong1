@@ -23,13 +23,18 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nextjs,expressjs,mongodb,docker,postgresql" />
 
 </div>
 
+<br>
+<br>
+---
+<br>
+<br>
 <br>
 
 <div align="center">
