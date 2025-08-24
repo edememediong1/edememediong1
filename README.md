@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/Moon" align="center">
-    <img src="https://api.daily.dev/devcards/c883db78fc7f47d98f913d7196de1ca8.png?r=i8r" width="350" alt="Emediong Bassey's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/c883db78fc7f47d98f913d7196de1ca8.png?r=i8r" width="350" alt="Emediong Bassey's Dev Card" align="center"/>
 </a>
 
 <h1 align="center">
