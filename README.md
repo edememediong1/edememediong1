@@ -25,25 +25,15 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgre" "width"40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter notebook" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp;
-</div>  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nextjs,expressjs,mongodb,docker,postgresql" />
+
+</div>
 
 ---
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=red&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&langs_count=8&layout=compact&hide_border=true" alt="Emediong's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=red&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
 | ------------- | ------------- |
 
 
@@ -52,5 +42,3 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
