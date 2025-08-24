@@ -32,7 +32,7 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 <br>
 
-<div align="center">
+<div>
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=edememediong1&theme=dark" alt="GitHub Streak"/>
