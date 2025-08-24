@@ -32,14 +32,15 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 <br>
 
-<div>
+<div align="center">
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=edememediong1&theme=dark" alt="GitHub Streak"/>
   </a>
 
   <br>
-
+  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true" alt="Top Langs"/>
 
   
