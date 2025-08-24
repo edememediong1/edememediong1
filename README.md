@@ -23,23 +23,23 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 ---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nextjs,expressjs,mongodb,docker,postgresql" />
 
 </div>
 
----
+<br>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=black&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
 | ------------- | ------------- |
 
 
-<hr>
+<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edememediong1&background=red&show_icons=true&include_all_commits=true&hide_border=true" alt="Emediong's GitHub stats" />
+
 
 
