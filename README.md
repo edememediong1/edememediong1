@@ -1,6 +1,8 @@
-<a href="https://app.daily.dev/Moon" align="center">
-    <img src="https://api.daily.dev/devcards/c883db78fc7f47d98f913d7196de1ca8.png?r=i8r" width="350" alt="Emediong Bassey's Dev Card" style="margin: auto;"/>
-</a>
+<div align="center">
+  <a href="https://app.daily.dev/Moon">
+    <img src="https://api.daily.dev/devcards/c883db78fc7f47d98f913d7196de1ca8.png?r=i8r" width="350" alt="Emediong Bassey's Dev Card"/>
+  </a>
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Emediong+Bassey+Edem!;" />
@@ -24,7 +26,8 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 ---
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,nextjs,expressjs,mongodb,aws,postgresql,tailwindcss" />
 
