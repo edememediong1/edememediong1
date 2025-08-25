@@ -34,7 +34,7 @@
 ---
 
 ### TLDR  
-I’m a Software Engineer who enjoys building product-driven applications that balance usability with scalability. I work across the stack with **JavaScript, React, Node.js, and MongoDB**, and I’m currently expanding into **AI engineering**.  
+I’m a Software Engineer who enjoys building product-driven applications that balance usability with scalability. I work across the stack with **JavaScript, React, Node.js, and MongoDB**, and I’m currently expanding into **AI and Cloud engineering**.  
 
 ---
 
