@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Emediong+Bassey+Edem!;" />
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=edememediong1&style=flat-square&color=green" alt=""/>
+
 
 <div align="center"> 
   <a href="edememediong1@gmail.com">
@@ -18,6 +18,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=edememediong1&style=flat-square&color=green" alt=""/>
+</div>
+
+
 
 I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who currently works as a Community Lead at [Portalverse Network](https://portalverse.net). I'm passionate about building useful software products, attaining product market fit, and ensuring that the needs of the consumer are met. I am determined to be a technopreneur, building and delivering high-quality tech products, that will be of immense global value and used across generations. I will be creating beginner friendly technical contents about Web2 and Web3 (on my [Blog](https://moonquills.hashnode.dev/), [Newsletter](https://moonquills.substack.com/), and [YouTube](https://www.youtube.com/channel/UCsiiCv13cqh0uMHKAit5T5A)), build useful [open-source projects](https://github.com/edememediong1)...
 
