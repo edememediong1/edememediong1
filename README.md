@@ -26,7 +26,7 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,reactjs,nextjs,expressjs,mongodb,aws,postgresql,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,nextjs,expressjs,mongodb,aws,postgresql,tailwindcss" />
 
 </div>
 
@@ -34,11 +34,11 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ham12-3&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham12-3&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
 
     
 
@@ -47,7 +47,7 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 
 
-[![Abdulhamid Sonaike's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ham12-3&hide_border=true&theme=high-contrast)](https://github.com/Ham12-3/github-readme-activity-graph)
+[![Emediong's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edememediong1&hide_border=true&theme=high-contrast)](https://github.com/edememediong1/github-readme-activity-graph)
 
 
 
@@ -55,6 +55,6 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+taking+time+to+peruse+my+profile!+✌️;+Shoot+me+a+message+on+Linkedin!;I+will+be+waiting+:)">
 </h3>
 <hr/>
