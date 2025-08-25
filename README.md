@@ -27,24 +27,54 @@
 <br>
 <br>
 
-I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who currently works as a Community Lead at [Portalverse Network](https://portalverse.net). I'm passionate about building useful software products, attaining product market fit, and ensuring that the needs of the consumer are met. I am determined to be a technopreneur, building and delivering high-quality tech products, that will be of immense global value and used across generations. I will be creating beginner friendly technical contents about Web2 and Web3 (on my [Blog](https://moonquills.hashnode.dev/), [Newsletter](https://moonquills.substack.com/), and [YouTube](https://www.youtube.com/channel/UCsiiCv13cqh0uMHKAit5T5A)), build useful [open-source projects](https://github.com/edememediong1)...
+# 👋 Hi, I'm Emediong Edem  
 
-**Here's a quick summary about me**:
+**Software Engineer | Product-Driven Builder | Lifelong Learner**  
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: 
-- 🌱 I’m currently on my path to becoming a Fullstack Web2 and Web3 developer.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer (Fullstack).
-- 📫 You can contact me by emailing edememediong1@gmail.com.
+---
+
+### TLDR  
+I’m a Software Engineer who enjoys building product-driven applications that balance usability with scalability. I work across the stack with **JavaScript, React, Node.js, and MongoDB**, and I’m currently expanding into **AI engineering**.  
+
+---
+
+### 👨‍💻 About Me  
+- 💡 Passionate about turning ideas into simple, scalable products  
+- ⚛️ Experienced with **React, Node.js, Express, MongoDB, Next.js, Tailwind CSS**  
+- 🚀 Strong foundation in **JavaScript & TypeScript**  
+- 🌱 Currently learning **AI engineering** to build intelligent systems  
+- 🎯 Believe in clean code, rapid iteration, and designing for real people  
+
+---
+
+### 🔑 Key Skills  
+- Full-stack software development (React, Node.js, Express, MongoDB)  
+- REST API design & backend integration  
+- Frontend architectures with Next.js & Tailwind CSS  
+- Product-driven development & rapid prototyping  
+- Continuous learning and growth mindset  
+
+---
+
+### 🌍 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/emediong-edem/)  
+- [Twitter](https://twitter.com/ebedossantos)  
+- 📧 edememediong1@gmail.com  
+
+---
+
+⚡ **Fun fact:** I enjoy simplifying complex ideas into solutions people can actually use.  
 
 
+<hr>
 <br>
 <br>
 <br>
 
-<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
-<br/>
+<h2 align="center">
+  ⚒️ Languages Frameworks Tools ⚒️
+</h2>
+<br>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,nextjs,expressjs,mongodb,aws,postgresql,tailwindcss" />
