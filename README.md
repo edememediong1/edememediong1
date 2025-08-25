@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Emediong+Bassey+Edem!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fullstack+Engineer;+Entrepreneur;+Builder;" />
 </h1>
 
 
@@ -112,6 +112,6 @@ I’m a Software Engineer who enjoys building product-driven applications that b
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+taking+time+to+peruse+my+profile!+✌️;+Shoot+me+a+message+on+Linkedin!;I+will+be+waiting+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+my+profile!+✌️;+Shoot+me+a+message+on+Linkedin!;I+will+be+waiting+:)">
 </h3>
 <hr/>
