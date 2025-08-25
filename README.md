@@ -25,8 +25,8 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 
 ---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
+<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,nextjs,expressjs,mongodb,aws,postgresql,tailwindcss" />
