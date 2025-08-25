@@ -38,8 +38,6 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 - 💼 Job interests: Software Engineer (Fullstack).
 - 📫 You can contact me by emailing edememediong1@gmail.com.
 
----
-
 
 <br>
 <br>
