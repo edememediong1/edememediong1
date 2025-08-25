@@ -41,7 +41,9 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 ---
 
 
-
+<br>
+<br>
+<br>
 
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 <br/>
@@ -56,16 +58,21 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 <br>
 
 <hr>
+<br>
+<br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
 
-
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
 
     
 
-
+<br>
+<br>
 <hr>
 
 
