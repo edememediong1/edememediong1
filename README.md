@@ -24,36 +24,37 @@ I'm a Software Engineer, Web3 Growth Marketer, and Community Manager who current
 ---
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br>
-<br>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nextjs,expressjs,mongodb,docker,postgresql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,reactjs,nextjs,expressjs,mongodb,aws,postgresql,tailwindcss" />
 
 </div>
 
-<br>
-<br>
----
-<br>
-<br>
-<br>
+<br/>
 
-<div align="center">
+<hr>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=edememediong1&theme=dark" alt="GitHub Streak"/>
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ham12-3&theme=dark)](https://git.io/streak-stats)
 
-  <br>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true" alt="Top Langs"/>
 
-  
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham12-3&layout=compact&theme=radical&count_private=true)
+
+    
+
+
+<hr>
+
+
+
+[![Abdulhamid Sonaike's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ham12-3&hide_border=true&theme=high-contrast)](https://github.com/Ham12-3/github-readme-activity-graph)
 
 
 
 
 
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+<hr/>
