@@ -90,12 +90,12 @@ I’m a Software Engineer who enjoys building product-driven applications that b
 
 <div align='center'>
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
   
   <br>
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edememediong1&layout=compact&theme=radical&count_private=true)
 </div>    
 
 <br>
