@@ -90,8 +90,6 @@ I’m a Software Engineer who enjoys building product-driven applications that b
 
 <div align='center'>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edememediong1&theme=dark)](https://git.io/streak-stats)
-  
   <br>
   <br>
   
